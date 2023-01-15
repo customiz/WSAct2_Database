@@ -99,8 +99,7 @@ html * {
 						<td><c:out value="${product.price}" /></td>
 						<td><img
 							src="<c:url value='/ImageServlet?id=${product.id}'/>" height="80"
-							alt="Pr
-							duct Image">
+							alt="Product Image">
 							</td>
 
 
